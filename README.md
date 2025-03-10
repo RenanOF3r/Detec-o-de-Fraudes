@@ -1,9 +1,14 @@
 # Detec-o-de-Fraudes
 Criar um modelo para identificar fraudes em transações financeiras.
 
-# Detecção de Fraude em Transações de Cartão de Crédito
+Este projeto usa Machine Learning para detectar fraudes em transações financeiras. Foi desenvolvido para rodar diretamente no GitHub Codespaces ou Google Colab.
 
-Este projeto usa **Machine Learning** para detectar transações fraudulentas em cartões de crédito.
+## Como Executar no GitHub Codespaces
+1. Clique no botão "Code" no repositório.
+2. Escolha "Open with Codespaces".
+3. Abra o notebook `fraud_detection.ipynb` e execute as células!
+
+Este projeto usa Machine Learning para detectar transações fraudulentas em cartões de crédito.
 
 ## Estrutura do Projeto
 - `creditcard_fraud.ipynb`: Notebook com todo o código
