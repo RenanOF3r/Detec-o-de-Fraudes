@@ -1,4 +1,4 @@
-# Detec-o-de-Fraudes
+# Detectar Fraldes em Cartões de Crédito
 Criar um modelo para identificar fraudes em transações financeiras.
 
 Este projeto usa Machine Learning para detectar fraudes em transações financeiras. Foi desenvolvido para rodar diretamente no GitHub Codespaces ou Google Colab.
